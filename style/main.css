@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(3, 3, 42);
+    color: #ccc;
+}
+
+h1{
+    color: rgb(21, 180, 37);
+    text-align: center;
+    margin: 11px 0 44px 0;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.imgDiv{
+    width: 35%; 
+    height: 35%; 
+    margin: 33px 0px; 
+    border: solid rgb(37, 134, 74) 2px; 
+    padding: 2px;
+}
+
+a{
+    color: rgb(232, 12, 12);
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover{
+    color: mediumseagreen;
+    font-weight: bold;
+}
